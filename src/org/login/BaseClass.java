@@ -9,6 +9,16 @@ public class BaseClass {
 		System.out.println("employee id is 1234");
 	}
 
+	void employeeName() {
+		System.out.println("employee name is Vignesh");
+
+	}
+
+	void employeeNumber() {
+		System.out.println("employe Number is 9876543201");
+
+	}
+
 	public String reverseOFString(String input) {
 		String output = "";
 
